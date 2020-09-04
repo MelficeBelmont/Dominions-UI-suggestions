@@ -1,2 +1,4 @@
 # Dominions-UI-suggestions
-This is a collection of suggestions for imporvements to the Dominions video game series
+This is a collection of suggestions for imporvements to the Dominions video game series.
+
+The goal of this project is to create an organized selection of suggested improvements for the the UI and quality of life for the game so that the devs can easily access it and read feedback with the eventual goal of also having mockups made available. In it I would like to touch on every aspect of the UI with the main focus being ideas on how to convey information to the user faster and more easily, allow the user to more quickly and easily take the turn. New mechanics for the series is not the primary focus but may be briefly addressed in two situations. First in which the new mechanics are primarily about making the gameplay quicker and/or more striaght forward. Second, in cases that I think that UI improvements may make new mechanics easy to handle from a users end.
