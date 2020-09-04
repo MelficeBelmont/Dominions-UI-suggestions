@@ -1,0 +1,42 @@
+To add
+- something about move and patrol
+- alchemy overhaul(u/SvalbardCaretaker - reddit)
+requirement
+- gem allocation changes
+	Hmm, for the gems perhaps hovering the commander on the strategic map and on the army setup screen and pressing shift+1 through 8 or shift + 1-4 for elemental and ctrl + 1-4 sorcerous. This would only draw from labs for simplicity sake.
+- forge menu filters
+- filter to holy
+-? filter both second and first
+- positioning screen overhaul
+- review and flesh out milleder's suggestions on steam forum
+- review bcnoexceptions' suggestions on reddit
+- an item forging report. arrow keys to move between fort recruitment screens. condensed site searching report. upkeep chart showing breakdown by unit category. improved gem allocation ui (this is intentionally vague because there are a lot of ways you could improve gem allocation) - release trade and taint
+- upkeep should also be visible per commander on the F1 nation overview
+- a sort for the F1 menu to seperate infiltated and owned
+- From the army setup screen when you have the green square and you lay out the squads: have a list on the side to select the commanders you want to move. You can click them on the map but if they're piled up you just keep alternating between the top 2. - Eerywax
+- Or some kind of "template/grouping" capacity. So as MA Ermor you setup all longdead by type to be part of Group A, so when you double click a naked skelly in unit selection, all skellies you assigned to Group A get highlighted. - Eerywax
+- political map filter instead of dominion map filter
+- dominion map borders also show different hostile dominions
+- 'y' hotkey shows teleporteres too
+	- also demonstrate which is magic phase movement
+- new color arrow for magic phase movement
+- demonstrate how long casting time is on scripts
+- commander names along with unit type in unit combat log
+- F1 menu unrest next to PD
+- sail distance
+- pd that has been changed this turn demonstrated on F1 menu
+- hover the box and type hotkey for fformation type
+- filter for unit log showing only attack made, attack against, spells
+- wasd for battle screen movement
+- add mods during game setup
+- horror mark show with afflictions
+- see scales on 'o' and temple select
+- list all hotkeys somewhere, this may save trouble https://steamcommunity.com/app/722060/discussions/0/1640915206494172778/, include ctrl+m and on other I forget
+- hotkey move and patrol
+- history of messages for self also
+- don't cost gold for units that haven't started production yet
+- hotkeys for recruit list or prestructured army script and all
+- army setup menu filter rethink patrol gets it's own hotkey
+- end turn message say how many stealthed and how many other
+- under fort info change it to additional commander points or have it read the total
+- when hovering administration say how much additional gold, resources, and rec points it is giving you
