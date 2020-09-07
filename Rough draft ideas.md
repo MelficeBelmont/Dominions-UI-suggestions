@@ -40,3 +40,4 @@ requirement
 - end turn message say how many stealthed and how many other
 - under fort info change it to additional commander points or have it read the total
 - when hovering administration say how much additional gold, resources, and rec points it is giving you
+- state how many gems of what type were used in a battle report
