@@ -1,7 +1,7 @@
-* I plan to break this large file up into more managable pieces
+I plan to break this large file up into more manageable pieces
 
 All menus
-- right-click outside of the menu box to close the current menu or back up to the previous menu 
+- right-click outside of the menu box to close the current menu or back up to the previous menu
 
 Options
 - under documentation include illwiki.com and the mod inspector
@@ -40,7 +40,7 @@ Primary Game Screen/Strategic Map
 - add Wait to the list of orders
 - show the destination province number of commanders that are moving either next the command or when you hover the commander
 - this one I am torn on whether it should be done or not: when you take a province( or scout with a unit that can see magic sites) and there is a site that has already been found via site searching show that the province has been searched with the values needed to find the site
-- a hotkey to 
+- a hotkey to
   - toggle between hide all researchers, show only researchers, see all (alt-z)
   - show only commanders that are moving (alt-v)
   - show only commanders equipped with items and/or gems (alt-q)
@@ -118,7 +118,7 @@ F1 menu, Nation Overview
   - a sort by all commanders by their magic paths (toggling between paths) regardless of their location this could also be expanded into an entirely new menu
   - show the destination province number of commanders that are moving, either next to the command or when you hover the commander
   - allow each province to be individually collapsed to hide all the commanders at the location
-    - add a hotkey to toggle collapsed and uncollapsed on all locations to (h)ide or unhide all the commanders 
+    - add a hotkey to toggle collapsed and uncollapsed on all locations to (h)ide or unhide all the commanders
 
   - hotkeys for commander filters
     - toggle between hide all researchers, show only researchers, see all (alt-z)
@@ -133,10 +133,10 @@ F1 menu, Nation Overview
     - show only units (alt-c)casting rituals
     - show only units (alt-f)orging
 
-   - hotkeys for province filters 
-    - (F)orts under your control 
-    - (L)abs under your control 
-    - (T)emples under your control 
+   - hotkeys for province filters
+    - (F)orts under your control
+    - (L)abs under your control
+    - (T)emples under your control
     - provinces under your uncontested (C)ontrol
 
   - take you straight to the (r)ecruitment menu for the province that the mouse is hovering on
@@ -173,7 +173,7 @@ F5 menu, Magic Research (also for Set battle orders where relevent)
 - right-click on the rp left section to see the research cost per research-level chart for the current game, tag on a cumulative cost like the one here https://illwiki.com/dom5/research
 - after clicking on a spell include the path requirements in the info I think at the top would be best but right above the fatigue cost would another good spot
 - instead of just having cannot be cast underwater or only be cast underwater state can be cast: only UW, UW and on land, or only on land
-- a little thing but think it would look nicer, instead of typing out gem required use "Gems required:" then follow with the number and the emblem for the gem type	
+- a little thing but think it would look nicer, instead of typing out gem required use "Gems required:" then follow with the number and the emblem for the gem type
 
 
 F6 menu, Global Enchantments
@@ -213,7 +213,7 @@ Army Setup menu
 - see the patrol strength of each commander and his troops next to the supply requirement have this number be colored if the commander is currently set to patrol
 - allow users to create tabs to manually move commanders to in order to help organize for various reason ex, put all comm slaves on a tab and all comm masters on another
 - allow commander reordering through manual dragging
-- add battle order target hotkeys for cavalry(H), fliers(F) 
+- add battle order target hotkeys for cavalry(H), fliers(F)
 - allow selection of multiple commanders to assign orders in batches at the very least saved battle orders
 - hotkeys for commander filters
   - toggle between hide all researchers, show only researchers, see all (alt-z)
@@ -292,7 +292,7 @@ New Menus
       - see an asterisk in the top right of the income box if that option is turned on while on the strategic map
       - see an asterisk next to the province name if the income box is turned off while on the strategic map
       - see an asterisk after the province number in the F1 menu
-    - allow notes on never scouted provinces 
+    - allow notes on never scouted provinces
   - add and see notes to commanders from their commander/stat menu
     - if at least one note is present on the commander
       - see an asterisk in the top right of his commander box while on the strategic map and the Army setup menu
