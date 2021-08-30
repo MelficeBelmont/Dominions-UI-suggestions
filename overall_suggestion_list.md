@@ -42,6 +42,7 @@ Primary Game Screen/Strategic Map
 - this one I am torn on whether it should be done or not: when you take a province( or scout with a unit that can see magic sites) and there is a site that has already been found via site searching show that the province has been searched with the values needed to find the site
 - a hotkey to
   - toggle between hide all researchers, show only researchers, see all (alt-z)
+	- the only new part of this one is the show only researchers
   - show only commanders that are moving (alt-v)
   - show only commanders equipped with items and/or gems (alt-q)
   - show only (alt-m)ages
