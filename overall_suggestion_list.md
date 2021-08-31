@@ -9,14 +9,13 @@ Options
 
 Select Era
 - allow clicking the description area to also select the relevant era
-- a hotkey to change the (D)ifficulty of all the AI
-- a hotkey to change the AI type (E)
-- a hotkey to view the (m)ap and map description
+- a hotkey to view the (m)ap and map description for Select Era, Choose Participants, Pretender Creation, and Game Settings
 
 
 Choose Participants, new game submenu
 - typing a number adds that many players
-
+- a hotkey to increase(+) and decrease(-) the difficulty of all the AI
+- a hotkey to change the AI type (E)
 
 Pretender Creation
 - right-click on custom priest spells to see the spell description including ones that may be added by mods
